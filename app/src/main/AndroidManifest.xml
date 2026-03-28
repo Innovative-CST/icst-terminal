@@ -44,10 +44,10 @@
         android:name="com.termux.app.TermuxApplication"
         android:allowBackup="false"
         android:banner="@drawable/banner"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/icst_terminal"
         android:label="@string/application_name"
         android:requestLegacyExternalStorage="true"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/icst_terminal_round"
         android:supportsRtl="false"
         android:theme="@style/Theme.TermuxApp.DayNight.DarkActionBar"
         tools:targetApi="m">
